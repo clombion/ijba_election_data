@@ -1,22 +1,13 @@
 Libellé,Signification,Orientation
-LEXG,Liste Extrême gauche,Gauche
-LFG,Liste du Front de Gauche,Gauche
-LPG,Liste du Parti de Gauche,Gauche
-LCOM,Liste du Parti communiste français,Gauche
-LVEG,Liste Europe Ecologie-Les Verts et gauche,Gauche
-LSOC,Liste du Parti Socialiste,Gauche
-LUG,Liste Union de la Gauche,Gauche
-LRDG,Liste du Parti radical de gauche,Gauche
-LDVG,Liste Divers gauche,Gauche
-LVEC,Liste d’Europe-Ecologie-Les Verts,Gauche
-LECO,Liste Ecologiste,Gauche
-LDIV,Liste Divers,Centre
-LREG,Liste Régionaliste,Droite
-LMDM,Liste du Modem,Centre
-LUDI,Liste de l’Union des Démocrates et des Indépendants,Centre
-LLR,Liste « Les Républicains »,Droite
-LUD,Liste Union de la Droite,Droite
-LDLF,Liste Debout la France,Droite
-LDVD,Liste Divers droite,Droite
-LFN,Liste Front National,Droite
-LEXD,Liste Extrême droite,Droite
+DIV,Liste Divers,Centre
+DSV,Droite souverainiste,Droite
+DVC,Divers Centre,Centre
+DVD,Liste Divers droite,Droite
+DVG,Liste Divers gauche,Gauche
+DXG,Inéligible,
+ENS,Liste Ensemble,Centre
+LR,Liste « Les Républicains »,Droite
+NUP,Liste NUPES,Gauche
+REG,Liste Régionaliste,Droite
+RN,"Liste ""Rassemblement National""",Droite
+UDI,Liste de l’Union des Démocrates et des Indépendants,Centre
